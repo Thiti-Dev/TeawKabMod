@@ -1,0 +1,40 @@
+{
+	"project_info": {
+		"project_number": "745730821943",
+		"firebase_url": "https://practiceproject-2043c.firebaseio.com",
+		"project_id": "practiceproject-2043c",
+		"storage_bucket": "practiceproject-2043c.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:745730821943:android:10485e0185ed1cafa394b2",
+				"android_client_info": {
+					"package_name": "com.practiceproject"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "745730821943-lirksltqcjh123lijbv727oe44hkf679.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyAJV_kSJ2D85WIbp-D7oFsGJ9yTyqdmqbI"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "745730821943-lirksltqcjh123lijbv727oe44hkf679.apps.googleusercontent.com",
+							"client_type": 3
+						}
+					]
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
+}
