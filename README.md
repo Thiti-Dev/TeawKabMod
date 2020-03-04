@@ -24,9 +24,7 @@ npm install
 ## 🌟 Preview
 
 <div align="center">
-<img src="https://www.img.in.th/images/3a4c715538702e0ace22566f5b4b63f8.png" alt="3a4c715538702e0ace22566f5b4b63f8.png" border="0" />
-  
- ![ScreenShot](https://www.img.in.th/images/3a4c715538702e0ace22566f5b4b63f8.png)
+![ScreenShot](https://www.img.in.th/images/3a4c715538702e0ace22566f5b4b63f8.png)
 </div>
 
 <p align="center">
