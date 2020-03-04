@@ -23,6 +23,7 @@ npm install
 
 ## 🌟 Preview
 
+<div align="center">
 <img src="https://www.img.in.th/images/3a4c715538702e0ace22566f5b4b63f8.png" alt="3a4c715538702e0ace22566f5b4b63f8.png" border="0" />
 <br><br>
 <img src="https://www.img.in.th/images/db3c4d40b8fcd7460af745c19021e3b4.png" alt="db3c4d40b8fcd7460af745c19021e3b4.png" border="0" />
@@ -30,6 +31,7 @@ npm install
 <img src="https://www.img.in.th/images/86ea10e57d275898532e047bf61384b9.png" alt="86ea10e57d275898532e047bf61384b9.png" border="0" />
 <br><br>
 <img src="https://www.img.in.th/images/2da7a63807b49b72c1137611b8ac2a11.png" alt="2da7a63807b49b72c1137611b8ac2a11.png" border="0" />
+</div>
 
 <p align="center">
   <b>: Contact me By :</b><br>
