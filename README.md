@@ -26,7 +26,10 @@ npm install
 <div align="center">
   
  ![ScreenShot](https://www.img.in.th/images/3a4c715538702e0ace22566f5b4b63f8.png)
- 
+ <br><br>
+ ![ScreenShot](https://www.img.in.th/images/2da7a63807b49b72c1137611b8ac2a11.png)
+ <br><br>
+ ![ScreenShot](https://www.img.in.th/images/2da7a63807b49b72c1137611b8ac2a11.png)
  
 </div>
 
